@@ -1,14 +1,14 @@
 import React, { useState, useEffect } from 'react';
 import Header from './components/Header';
 import MobileMenu from './components/MobileMenu';
-import About from './sections/About';
-import Hero from './sections/Hero';
-import Service from './sections/Service'
-import Project from './sections/Project';
+import About from './sections/about';
+import Hero from './sections/hero';
+import Service from './sections/service'
+import Project from './sections/project';
 import useScrollAnimation from './hooks/useScrollAnimation';
 import Contact from './sections/Contact';
 import './App.css';
-import Certificates from './sections/Certificate';
+import Certificates from './sections/certificate';
 
 export default function App() {
   const [menuOpen, setMenuOpen] = useState(false);

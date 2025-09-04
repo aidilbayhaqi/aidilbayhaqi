@@ -59,7 +59,7 @@ const Certificates = () => {
   ];
 
   return (
-    <section id="certificates" className="py-24 bg-black">
+    <section id="certificate" className="py-24 bg-black">
       <FadeIn>
         <div className="container mx-auto px-6">
           <div className="max-w-xl mx-auto text-center mb-12">

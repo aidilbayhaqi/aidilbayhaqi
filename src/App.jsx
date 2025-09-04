@@ -6,7 +6,7 @@ import Hero from './sections/hero';
 import Service from './sections/service'
 import Project from './sections/project';
 import useScrollAnimation from './hooks/useScrollAnimation';
-import Contact from './sections/Contact';
+import Contact from './sections/contact';
 import './App.css';
 import Certificates from './sections/certificate';
 
